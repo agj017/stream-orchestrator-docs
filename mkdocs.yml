@@ -1,7 +1,7 @@
 site_name: Stream Orchestrator Docs
 site_description: Architecture, deployment, and operations documentation for Stream Orchestrator.
-repo_url: https://github.com/agj017/stream-orchestrator
-docs_dir: .
+repo_url: https://github.com/agj017/stream-orchestrator-docs
+docs_dir: content
 site_dir: site
 theme:
   name: material
