@@ -1,0 +1,32 @@
+site_name: Stream Orchestrator Docs
+site_description: Architecture, deployment, and operations documentation for Stream Orchestrator.
+repo_url: https://github.com/agj017/stream-orchestrator
+docs_dir: .
+site_dir: ../site
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+nav:
+  - Home: index.md
+  - English:
+      - Overview: en/index.md
+      - Architecture: en/architecture.md
+      - Stream State Model: en/state-model.md
+      - Deployment:
+          - GitHub Pages: en/deployment/github-pages.md
+  - 한국어:
+      - 개요: ko/index.md
+      - 아키텍처: ko/architecture.md
+      - 스트림 상태 모델: ko/state-model.md
+      - 배포:
+          - GitHub Pages: ko/deployment/github-pages.md
