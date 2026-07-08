@@ -8,4 +8,3 @@ It accepts stream lifecycle requests, assigns streams to healthy MediaMTX instan
 
 - [Architecture](architecture.md)
 - [Stream State Model](state-model.md)
-- [GitHub Pages Deployment](deployment/github-pages.md)

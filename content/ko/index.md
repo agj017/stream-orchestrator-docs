@@ -8,4 +8,3 @@ Stream Orchestrator는 Go, Kubernetes, MediaMTX, RabbitMQ, PostgreSQL, Prometheu
 
 - [아키텍처](architecture.md)
 - [스트림 상태 모델](state-model.md)
-- [GitHub Pages 배포](deployment/github-pages.md)

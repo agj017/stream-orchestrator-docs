@@ -1,5 +1,5 @@
 site_name: Stream Orchestrator Docs
-site_description: Stream Orchestrator 아키텍처, 배포, 운영 문서.
+site_description: Stream Orchestrator 아키텍처 및 운영 문서.
 repo_url: https://github.com/agj017/stream-orchestrator-docs
 site_url: https://agj017.github.io/stream-orchestrator-docs/ko/
 docs_dir: content/ko
@@ -30,5 +30,3 @@ nav:
   - 개요: index.md
   - 아키텍처: architecture.md
   - 스트림 상태 모델: state-model.md
-  - 배포:
-      - GitHub Pages: deployment/github-pages.md
